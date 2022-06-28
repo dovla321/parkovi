@@ -1,0 +1,595 @@
+[04-Apr-2022 16:34:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-admin\admin-header.php:245) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[04-Apr-2022 16:34:04 UTC] PHP Stack trace:
+[04-Apr-2022 16:34:04 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:34:04 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:34:04 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:34:04 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:34:04 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:34:04 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:34:04 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[04-Apr-2022 16:34:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-admin\admin-header.php:245) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[04-Apr-2022 16:34:04 UTC] PHP Stack trace:
+[04-Apr-2022 16:34:04 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:34:04 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:34:04 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:34:04 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:34:04 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:34:04 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:34:04 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[04-Apr-2022 16:34:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-admin\admin-header.php:245) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[04-Apr-2022 16:34:18 UTC] PHP Stack trace:
+[04-Apr-2022 16:34:18 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:34:18 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:34:18 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:34:18 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:34:18 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:34:18 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:34:18 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[04-Apr-2022 16:34:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-admin\admin-header.php:245) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[04-Apr-2022 16:34:18 UTC] PHP Stack trace:
+[04-Apr-2022 16:34:18 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:34:18 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:34:18 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:34:18 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:34:18 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:34:18 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:34:18 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[04-Apr-2022 16:34:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-admin\admin-header.php:245) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[04-Apr-2022 16:34:51 UTC] PHP Stack trace:
+[04-Apr-2022 16:34:51 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:34:51 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:34:51 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:34:51 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:34:51 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:34:51 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:34:51 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[04-Apr-2022 16:34:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-admin\admin-header.php:245) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[04-Apr-2022 16:34:51 UTC] PHP Stack trace:
+[04-Apr-2022 16:34:51 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:34:51 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:34:51 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:34:51 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:34:51 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:34:51 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:34:51 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[04-Apr-2022 16:34:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-admin\admin-header.php:245) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[04-Apr-2022 16:34:55 UTC] PHP Stack trace:
+[04-Apr-2022 16:34:55 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:34:55 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:34:55 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:34:55 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:34:55 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:34:55 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:34:55 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[04-Apr-2022 16:34:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-admin\admin-header.php:245) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[04-Apr-2022 16:34:55 UTC] PHP Stack trace:
+[04-Apr-2022 16:34:55 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:34:55 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:34:55 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:34:55 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:34:55 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:34:55 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:34:55 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[04-Apr-2022 16:35:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2699) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[04-Apr-2022 16:35:09 UTC] PHP Stack trace:
+[04-Apr-2022 16:35:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:35:09 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:35:09 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:35:09 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:35:09 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:35:09 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:35:09 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[04-Apr-2022 16:35:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2699) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[04-Apr-2022 16:35:09 UTC] PHP Stack trace:
+[04-Apr-2022 16:35:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 16:35:09 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 16:35:09 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 16:35:09 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 16:35:09 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 16:35:09 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 16:35:09 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[04-Apr-2022 17:21:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2699) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[04-Apr-2022 17:21:21 UTC] PHP Stack trace:
+[04-Apr-2022 17:21:21 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 17:21:21 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 17:21:21 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 17:21:21 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 17:21:21 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 17:21:21 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 17:21:21 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[04-Apr-2022 17:21:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2699) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[04-Apr-2022 17:21:21 UTC] PHP Stack trace:
+[04-Apr-2022 17:21:21 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 17:21:21 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 17:21:21 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 17:21:21 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 17:21:21 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 17:21:21 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 17:21:21 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[04-Apr-2022 17:21:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2699) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[04-Apr-2022 17:21:24 UTC] PHP Stack trace:
+[04-Apr-2022 17:21:24 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 17:21:24 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 17:21:24 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 17:21:24 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 17:21:24 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 17:21:24 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 17:21:24 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[04-Apr-2022 17:21:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2699) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[04-Apr-2022 17:21:24 UTC] PHP Stack trace:
+[04-Apr-2022 17:21:24 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 17:21:24 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 17:21:24 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 17:21:24 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 17:21:24 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 17:21:24 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 17:21:24 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[04-Apr-2022 17:21:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2699) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[04-Apr-2022 17:21:33 UTC] PHP Stack trace:
+[04-Apr-2022 17:21:33 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 17:21:33 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 17:21:33 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 17:21:33 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 17:21:33 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 17:21:33 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 17:21:33 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[04-Apr-2022 17:21:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2699) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[04-Apr-2022 17:21:33 UTC] PHP Stack trace:
+[04-Apr-2022 17:21:33 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[04-Apr-2022 17:21:33 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[04-Apr-2022 17:21:33 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[04-Apr-2022 17:21:33 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[04-Apr-2022 17:21:33 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[04-Apr-2022 17:21:33 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[04-Apr-2022 17:21:33 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[08-Apr-2022 16:12:25 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:25 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:25 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:25 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:25 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:25 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:25 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:25 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:25 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:25 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:25 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:25 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:25 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:25 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:25 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:25 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:25 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:25 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:25 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:25 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:25 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:25 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:25 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:25 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:25 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:25 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:25 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:25 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:25 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:25 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:25 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:25 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:25 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:25 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:25 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:25 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:49 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:49 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:49 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:49 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:49 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:49 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:49 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:49 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:49 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:49 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:49 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:49 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:49 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:49 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:49 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:49 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:49 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:49 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:49 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:49 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:49 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:49 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:49 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:49 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:49 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:49 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:49 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:49 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:49 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:49 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:12:49 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 135
+[08-Apr-2022 16:12:49 UTC] PHP Stack trace:
+[08-Apr-2022 16:12:49 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:12:49 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:12:49 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:12:49 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:20:42 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 69
+[08-Apr-2022 16:20:42 UTC] PHP Stack trace:
+[08-Apr-2022 16:20:42 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:20:42 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:20:42 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:20:42 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 16:20:42 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 69
+[08-Apr-2022 16:20:42 UTC] PHP Stack trace:
+[08-Apr-2022 16:20:42 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 16:20:42 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 16:20:42 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 16:20:42 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 17:07:43 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 26
+[08-Apr-2022 17:07:43 UTC] PHP Stack trace:
+[08-Apr-2022 17:07:43 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 17:07:43 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 17:07:43 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 17:07:43 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 17:07:43 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 26
+[08-Apr-2022 17:07:43 UTC] PHP Stack trace:
+[08-Apr-2022 17:07:43 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 17:07:43 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 17:07:43 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 17:07:43 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 17:07:43 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 29
+[08-Apr-2022 17:07:43 UTC] PHP Stack trace:
+[08-Apr-2022 17:07:43 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 17:07:43 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 17:07:43 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 17:07:43 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 17:07:43 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 29
+[08-Apr-2022 17:07:43 UTC] PHP Stack trace:
+[08-Apr-2022 17:07:43 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 17:07:43 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 17:07:43 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 17:07:43 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 17:07:43 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 32
+[08-Apr-2022 17:07:43 UTC] PHP Stack trace:
+[08-Apr-2022 17:07:43 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 17:07:43 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 17:07:43 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 17:07:43 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 17:07:43 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 32
+[08-Apr-2022 17:07:43 UTC] PHP Stack trace:
+[08-Apr-2022 17:07:43 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 17:07:43 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 17:07:43 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 17:07:43 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 17:27:35 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 32
+[08-Apr-2022 17:27:35 UTC] PHP Stack trace:
+[08-Apr-2022 17:27:35 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 17:27:35 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 17:27:35 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 17:27:35 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[08-Apr-2022 17:27:35 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 32
+[08-Apr-2022 17:27:35 UTC] PHP Stack trace:
+[08-Apr-2022 17:27:35 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[08-Apr-2022 17:27:35 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[08-Apr-2022 17:27:35 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[08-Apr-2022 17:27:35 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[14-Apr-2022 16:44:45 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[14-Apr-2022 16:44:47 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[14-Apr-2022 16:45:34 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[14-Apr-2022 17:24:44 UTC] PHP Parse error:  syntax error, unexpected ''comment_notes_before'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 78
+[14-Apr-2022 17:26:48 UTC] PHP Parse error:  syntax error, unexpected ''comment_notes_before'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 78
+[14-Apr-2022 17:47:06 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[15-Apr-2022 14:26:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\wamp64\www\subdomains\parkovi\wp-admin\includes\translation-install.php on line 68
+[15-Apr-2022 14:26:48 UTC] PHP Stack trace:
+[15-Apr-2022 14:26:48 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\options-general.php:0
+[15-Apr-2022 14:26:48 UTC] PHP   2. wp_get_available_translations() C:\wamp64\www\subdomains\parkovi\wp-admin\options-general.php:160
+[15-Apr-2022 14:26:48 UTC] PHP   3. translations_api($type = 'core', $args = ['version' => '5.9.3']) C:\wamp64\www\subdomains\parkovi\wp-admin\includes\translation-install.php:133
+[15-Apr-2022 14:26:48 UTC] PHP   4. trigger_error($message = 'An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)', $error_type = 512) C:\wamp64\www\subdomains\parkovi\wp-admin\includes\translation-install.php:68
+[15-Apr-2022 14:36:27 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[15-Apr-2022 14:36:35 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[15-Apr-2022 14:37:55 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[15-Apr-2022 14:37:57 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[15-Apr-2022 14:37:59 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[15-Apr-2022 14:39:25 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[16-Apr-2022 07:13:38 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[17-Apr-2022 10:26:38 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 255
+[17-Apr-2022 10:26:38 UTC] PHP Stack trace:
+[17-Apr-2022 10:26:38 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:26:38 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:26:38 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:26:38 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:26:38 UTC] PHP Warning:  Illegal string offset 'medium' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 255
+[17-Apr-2022 10:26:38 UTC] PHP Stack trace:
+[17-Apr-2022 10:26:38 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:26:38 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:26:38 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:26:38 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:30:14 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:30:14 UTC] PHP Stack trace:
+[17-Apr-2022 10:30:14 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:30:14 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:30:14 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:30:14 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:30:14 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:30:14 UTC] PHP Stack trace:
+[17-Apr-2022 10:30:14 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:30:14 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:30:14 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:30:14 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:31:10 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:31:10 UTC] PHP Stack trace:
+[17-Apr-2022 10:31:10 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:31:10 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:31:10 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:31:10 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:31:10 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:31:10 UTC] PHP Stack trace:
+[17-Apr-2022 10:31:10 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:31:10 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:31:10 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:31:10 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:31:16 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:31:16 UTC] PHP Stack trace:
+[17-Apr-2022 10:31:16 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:31:16 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:31:16 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:31:16 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:31:16 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:31:16 UTC] PHP Stack trace:
+[17-Apr-2022 10:31:16 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:31:16 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:31:16 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:31:16 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:31:24 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:31:24 UTC] PHP Stack trace:
+[17-Apr-2022 10:31:24 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:31:24 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:31:24 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:31:24 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:31:24 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:31:24 UTC] PHP Stack trace:
+[17-Apr-2022 10:31:24 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:31:24 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:31:24 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:31:24 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:36:39 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:36:39 UTC] PHP Stack trace:
+[17-Apr-2022 10:36:39 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:36:39 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:36:39 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:36:39 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:36:39 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\single.php on line 43
+[17-Apr-2022 10:36:39 UTC] PHP Stack trace:
+[17-Apr-2022 10:36:39 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[17-Apr-2022 10:36:39 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[17-Apr-2022 10:36:39 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[17-Apr-2022 10:36:39 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[17-Apr-2022 10:52:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[17-Apr-2022 10:52:08 UTC] PHP Stack trace:
+[17-Apr-2022 10:52:08 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:52:08 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:52:08 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:52:08 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:52:08 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:52:08 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:52:08 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[17-Apr-2022 10:52:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[17-Apr-2022 10:52:08 UTC] PHP Stack trace:
+[17-Apr-2022 10:52:08 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:52:08 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:52:08 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:52:08 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:52:08 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:52:08 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:52:08 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[17-Apr-2022 10:52:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[17-Apr-2022 10:52:13 UTC] PHP Stack trace:
+[17-Apr-2022 10:52:13 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:52:13 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:52:13 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:52:13 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:52:13 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:52:13 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:52:13 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[17-Apr-2022 10:52:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[17-Apr-2022 10:52:13 UTC] PHP Stack trace:
+[17-Apr-2022 10:52:13 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:52:13 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:52:13 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:52:13 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:52:13 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:52:13 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:52:13 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[17-Apr-2022 10:52:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[17-Apr-2022 10:52:23 UTC] PHP Stack trace:
+[17-Apr-2022 10:52:23 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:52:23 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:52:23 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:52:23 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:52:23 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:52:23 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:52:23 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[17-Apr-2022 10:52:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[17-Apr-2022 10:52:23 UTC] PHP Stack trace:
+[17-Apr-2022 10:52:23 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:52:23 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:52:23 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:52:23 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:52:23 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:52:23 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:52:23 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[17-Apr-2022 10:56:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[17-Apr-2022 10:56:08 UTC] PHP Stack trace:
+[17-Apr-2022 10:56:08 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:56:08 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:56:08 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:56:08 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:56:08 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:56:08 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:56:08 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[17-Apr-2022 10:56:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[17-Apr-2022 10:56:08 UTC] PHP Stack trace:
+[17-Apr-2022 10:56:08 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:56:08 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:56:08 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:56:08 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:56:08 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:56:08 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:56:08 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[17-Apr-2022 10:56:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[17-Apr-2022 10:56:11 UTC] PHP Stack trace:
+[17-Apr-2022 10:56:11 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:56:11 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:56:11 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:56:11 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:56:11 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:56:11 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:56:11 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[17-Apr-2022 10:56:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[17-Apr-2022 10:56:11 UTC] PHP Stack trace:
+[17-Apr-2022 10:56:11 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:56:11 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:56:11 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:56:11 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:56:11 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:56:11 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:56:11 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[17-Apr-2022 10:56:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[17-Apr-2022 10:56:17 UTC] PHP Stack trace:
+[17-Apr-2022 10:56:17 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:56:17 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:56:17 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:56:17 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:56:17 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:56:17 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:56:17 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[17-Apr-2022 10:56:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[17-Apr-2022 10:56:17 UTC] PHP Stack trace:
+[17-Apr-2022 10:56:17 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[17-Apr-2022 10:56:17 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[17-Apr-2022 10:56:17 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[17-Apr-2022 10:56:17 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[17-Apr-2022 10:56:17 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[17-Apr-2022 10:56:17 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[17-Apr-2022 10:56:17 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[18-Apr-2022 08:59:54 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/post.min.js?ver=5.9.3 - Line: 2 - Column: 9032 - Error object: {}
+[18-Apr-2022 08:59:58 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/post.min.js?ver=5.9.3 - Line: 2 - Column: 9032 - Error object: {}
+[18-Apr-2022 09:00:13 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/post.min.js?ver=5.9.3 - Line: 2 - Column: 9032 - Error object: {}
+[18-Apr-2022 09:00:22 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/post.min.js?ver=5.9.3 - Line: 2 - Column: 9032 - Error object: {}
+[18-Apr-2022 09:04:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_category_link(), 0 passed in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php on line 263 and exactly 1 expected in C:\wamp64\www\subdomains\parkovi\wp-includes\category-template.php:20
+Stack trace:
+#0 C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-pocetna.php(263): get_category_link()
+#1 C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\s...')
+#2 C:\wamp64\www\subdomains\parkovi\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\s...')
+#3 C:\wamp64\www\subdomains\parkovi\index.php(17): require('C:\\wamp64\\www\\s...')
+#4 {main}
+  thrown in C:\wamp64\www\subdomains\parkovi\wp-includes\category-template.php on line 20
+[18-Apr-2022 15:22:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[18-Apr-2022 15:22:44 UTC] PHP Stack trace:
+[18-Apr-2022 15:22:44 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[18-Apr-2022 15:22:44 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[18-Apr-2022 15:22:44 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[18-Apr-2022 15:22:44 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[18-Apr-2022 15:22:44 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[18-Apr-2022 15:22:44 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[18-Apr-2022 15:22:44 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[18-Apr-2022 15:22:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[18-Apr-2022 15:22:44 UTC] PHP Stack trace:
+[18-Apr-2022 15:22:44 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[18-Apr-2022 15:22:44 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[18-Apr-2022 15:22:44 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[18-Apr-2022 15:22:44 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[18-Apr-2022 15:22:44 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[18-Apr-2022 15:22:44 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[18-Apr-2022 15:22:44 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[18-Apr-2022 15:22:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[18-Apr-2022 15:22:47 UTC] PHP Stack trace:
+[18-Apr-2022 15:22:47 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[18-Apr-2022 15:22:47 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[18-Apr-2022 15:22:47 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[18-Apr-2022 15:22:47 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[18-Apr-2022 15:22:47 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[18-Apr-2022 15:22:47 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[18-Apr-2022 15:22:47 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[18-Apr-2022 15:22:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[18-Apr-2022 15:22:47 UTC] PHP Stack trace:
+[18-Apr-2022 15:22:47 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[18-Apr-2022 15:22:47 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[18-Apr-2022 15:22:47 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[18-Apr-2022 15:22:47 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[18-Apr-2022 15:22:47 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[18-Apr-2022 15:22:47 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[18-Apr-2022 15:22:47 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[18-Apr-2022 15:22:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1355
+[18-Apr-2022 15:22:56 UTC] PHP Stack trace:
+[18-Apr-2022 15:22:56 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[18-Apr-2022 15:22:56 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[18-Apr-2022 15:22:56 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[18-Apr-2022 15:22:56 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[18-Apr-2022 15:22:56 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[18-Apr-2022 15:22:56 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[18-Apr-2022 15:22:56 UTC] PHP   7. header($header = 'X-Redirect-By: WordPress') C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1355
+[18-Apr-2022 15:22:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\subdomains\parkovi\wp-includes\script-loader.php:2709) in C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php on line 1358
+[18-Apr-2022 15:22:56 UTC] PHP Stack trace:
+[18-Apr-2022 15:22:56 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:0
+[18-Apr-2022 15:22:56 UTC] PHP   2. do_action($hook_name = 'wp-tools_page_settings-wptools') C:\wamp64\www\subdomains\parkovi\wp-admin\admin.php:259
+[18-Apr-2022 15:22:56 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\plugin.php:474
+[18-Apr-2022 15:22:56 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:331
+[18-Apr-2022 15:22:56 UTC] PHP   5. wptools_options_go_settings('') C:\wamp64\www\subdomains\parkovi\wp-includes\class-wp-hook.php:307
+[18-Apr-2022 15:22:56 UTC] PHP   6. wp_redirect($location = 'http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $status = *uninitialized*, $x_redirect_by = *uninitialized*) C:\wamp64\www\subdomains\parkovi\wp-content\plugins\wptools\functions\functions.php:11
+[18-Apr-2022 15:22:56 UTC] PHP   7. header($header = 'Location: http://parkovi.localhost/wp-admin/admin.php?page=settings-wptools', $replace = TRUE, $http_response_code = 302) C:\wamp64\www\subdomains\parkovi\wp-includes\pluggable.php:1358
+[19-Apr-2022 17:01:08 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[19-Apr-2022 17:01:10 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[19-Apr-2022 17:01:12 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[19-Apr-2022 17:01:13 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[19-Apr-2022 17:01:29 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[19-Apr-2022 17:01:36 UTC] Javascript Uncaught TypeError: Cannot read properties of undefined (reading \'responses\') - URL: http://parkovi.localhost/wp-admin/js/edit-comments.min.js?ver=5.9.3 - Line: 2 - Column: 4596 - Error object: {}
+[20-Jun-2022 15:03:09 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 93
+[20-Jun-2022 15:03:09 UTC] PHP Stack trace:
+[20-Jun-2022 15:03:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[20-Jun-2022 15:03:09 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[20-Jun-2022 15:03:09 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[20-Jun-2022 15:03:09 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[20-Jun-2022 15:03:09 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 93
+[20-Jun-2022 15:03:09 UTC] PHP Stack trace:
+[20-Jun-2022 15:03:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[20-Jun-2022 15:03:09 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[20-Jun-2022 15:03:09 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[20-Jun-2022 15:03:09 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[20-Jun-2022 15:03:09 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 93
+[20-Jun-2022 15:03:09 UTC] PHP Stack trace:
+[20-Jun-2022 15:03:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[20-Jun-2022 15:03:09 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[20-Jun-2022 15:03:09 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[20-Jun-2022 15:03:09 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[20-Jun-2022 15:03:09 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 93
+[20-Jun-2022 15:03:09 UTC] PHP Stack trace:
+[20-Jun-2022 15:03:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[20-Jun-2022 15:03:09 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[20-Jun-2022 15:03:09 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[20-Jun-2022 15:03:09 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[20-Jun-2022 15:03:09 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 93
+[20-Jun-2022 15:03:09 UTC] PHP Stack trace:
+[20-Jun-2022 15:03:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[20-Jun-2022 15:03:09 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[20-Jun-2022 15:03:09 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[20-Jun-2022 15:03:09 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[20-Jun-2022 15:03:09 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 93
+[20-Jun-2022 15:03:09 UTC] PHP Stack trace:
+[20-Jun-2022 15:03:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[20-Jun-2022 15:03:09 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[20-Jun-2022 15:03:09 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[20-Jun-2022 15:03:09 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[20-Jun-2022 15:03:09 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 93
+[20-Jun-2022 15:03:09 UTC] PHP Stack trace:
+[20-Jun-2022 15:03:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[20-Jun-2022 15:03:09 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[20-Jun-2022 15:03:09 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[20-Jun-2022 15:03:09 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
+[20-Jun-2022 15:03:09 UTC] PHP Warning:  Illegal string offset 'large' in C:\wamp64\www\subdomains\parkovi\wp-content\themes\parkovi\page-o-nama.php on line 93
+[20-Jun-2022 15:03:09 UTC] PHP Stack trace:
+[20-Jun-2022 15:03:09 UTC] PHP   1. {main}() C:\wamp64\www\subdomains\parkovi\index.php:0
+[20-Jun-2022 15:03:09 UTC] PHP   2. require() C:\wamp64\www\subdomains\parkovi\index.php:17
+[20-Jun-2022 15:03:09 UTC] PHP   3. require_once() C:\wamp64\www\subdomains\parkovi\wp-blog-header.php:19
+[20-Jun-2022 15:03:09 UTC] PHP   4. include() C:\wamp64\www\subdomains\parkovi\wp-includes\template-loader.php:106
